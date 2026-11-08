@@ -1,0 +1,23 @@
+
+# LangGraph orchestration
+langgraph
+langchain-core
+
+# A2A protocol
+a2a-sdk[http-server]
+
+# API servers
+fastapi
+uvicorn[standard]
+httpx
+
+# Streamlit frontend
+streamlit
+requests
+
+# Configuration
+python-dotenv
+pydantic-settings
+
+langchain_groq
+pygraphviz
